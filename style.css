@@ -1,0 +1,17 @@
+#video{
+    width:100%;
+    height:600px;
+    border: none;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgray
+}
+
+.travel_mainDiv img{
+    width: 80%;
+}
+
+.travel_mainDiv p{
+    margin: 20px;
+}
